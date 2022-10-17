@@ -48,7 +48,7 @@ while True:
     print("y1    : ",y1)
     print("y2    : ",y2)
     print()
-    
+    print()
     if (iterasi == 0):
         if(y2 <= 0):
             pengganti_y2 = y2*-1
